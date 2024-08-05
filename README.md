@@ -64,7 +64,7 @@ int main() {
     return 0;
 }
 
-// output:
+/* output:
 solved Sudoku
 6 1 2 3 4 5 7 9 8 
 4 3 5 9 8 7 1 6 2 
@@ -75,3 +75,4 @@ solved Sudoku
 1 2 4 8 9 6 3 5 7 
 9 6 3 7 5 4 8 2 1
 8 5 7 2 1 3 9 4 6
+*/
