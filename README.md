@@ -14,11 +14,3 @@ To compile the code, use the following command:
 
 ```sh
 g++ -o sudoku_solver sudoku_solver.cpp
-
-
-### Running
-To run the compiled program, use the following command:
-
-'''sh
-./sudoku_solver
-
